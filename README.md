@@ -6,7 +6,7 @@ Implementation of the clustering method: Model Based Hierarchical Clustering usi
 **b.** Generate/Synthesize 3 dimensional axial (labeled/unlabeled) data with given number of groups/cluster. <br>
 **c.** Automatically cluster 3 dimensional axial data.  <br>
 
-## How to use demo:
+## How to use demo (tested in Matlab2017b):
 **Run** the MATLAB file name: **mbc\_wmm.m** <br>
 **Load** data/samples files name: **S\_10000\_5\_Cl\_1.mat** or **S\_10000\_5\_Cl\_45.mat** <br>
 _OR_ **Generate** 3D samples with specific number of cluster (edit text box - _Num Class_) <br>
