@@ -10,4 +10,3 @@ This clustering method has been used to cluster image normals (3D directional un
 
 **Reference:**
 Abul Hasnat, Olivier Alata and Alain Tremeau, Unsupervised Clustering of Depth Images using Watson Mixture Model, In Int. Conference on Pattern Recognition (ICPR) 2014, Stockholm, Sweden.
-
