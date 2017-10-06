@@ -8,8 +8,8 @@ Implementation of the clustering method: Model Based Hierarchical Clustering usi
 
 ## How to use demo:
 **Run** the MATLAB file name: **mbc\_wmm.m** <br>
-**Load** data/samples files name: **S\_10000\_5\_Cl\_1.mat** or **S\_10000\_5\_Cl\_45.mat**
-_OR_ **Generate** 3D samples with specific number of cluster (edit text box - _Num Class_)
+**Load** data/samples files name: **S\_10000\_5\_Cl\_1.mat** or **S\_10000\_5\_Cl\_45.mat** <br>
+_OR_ **Generate** 3D samples with specific number of cluster (edit text box - _Num Class_) <br>
 
 ## Application:
 This clustering method has been used to cluster image normals (3D directional unit vectors) for analyzing depth/3D images. For details and other possible applications please see the reference. 
