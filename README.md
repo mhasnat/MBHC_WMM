@@ -24,7 +24,7 @@ This clustering method is limited to cluster 3 Dimensional directional samples o
 You can extend this method for higher dimensional samples.
 
 ## Reference:
-1. Abul Hasnat, Olivier Alata and Alain Tremeau, Unsupervised Clustering of Depth Images using Watson Mixture Model, In Int. Conference on Pattern Recognition (**ICPR**) **2014**, Stockholm, Sweden.
+1. Abul Hasnat, Olivier Alata and Alain Tremeau, Unsupervised Clustering of Depth Images using Watson Mixture Model, In Int. Conference on Pattern Recognition (**ICPR**) **2014**, Stockholm, Sweden. [`pdf download`](https://www.researchgate.net/publication/264505829_Unsupervised_Clustering_of_Depth_Images_Using_Watson_Mixture_Model)
 
-2. Abul Hasnat, Olivier Alata and Alain Trmeau, Joint Color-Spatial-Directional clustering and Region Merging (JCSD-RM) for unsupervised RGB-D image segmentation, In IEEE Trans. on Pattern Analysis and Machine Intelligence (**TPAMI**), Vol 38, Issue 11, pages 2255 - 2268, **2015**.
+2. Abul Hasnat, Olivier Alata and Alain Trmeau, Joint Color-Spatial-Directional clustering and Region Merging (JCSD-RM) for unsupervised RGB-D image segmentation, In IEEE Trans. on Pattern Analysis and Machine Intelligence (**TPAMI**), Vol 38, Issue 11, pages 2255 - 2268, **2015**. [`pdf download`](https://arxiv.org/pdf/1509.01788.pdf)
 
